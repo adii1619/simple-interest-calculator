@@ -199,3 +199,22 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   - Commit the file.
+
+5. **Add LICENSE (Apache 2.0)**
+   - In GitHub repo main page click **Add file → Create new file** → in filename put `LICENSE`.
+   - Or easier: **Code → Add file → Create new file**, then click the small **Choose a license template** link (usually shown when you create a new file). Select **Apache License 2.0** and click **Commit new file**. GitHub will populate the full license text for you.
+   - If GitHub offered the license during repo creation, you can accept that — it is automatically included.
+
+6. **Add CODE_OF_CONDUCT.md**
+   - Click **Add file → Create new file** → `CODE_OF_CONDUCT.md`.
+   - Paste a short Code of Conduct (or use Contributor Covenant). Example minimal:
+
+```markdown
+# Code of Conduct
+
+All contributors are expected to follow respectful and inclusive behavior.
+Unacceptable behavior will be addressed by the maintainers.
+
+If you experience or witness unacceptable behavior, contact the maintainers at <your-team-email>.
